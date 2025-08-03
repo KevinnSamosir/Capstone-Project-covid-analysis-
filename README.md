@@ -24,9 +24,9 @@ yang menunjukkan potensi wabah lokal atau peningkatan tes yang signifikan.
 
 3. Wilayah WHO Paling Terdampak
 Wilayah WHO dengan total kasus terkonfirmasi tertinggi:
-- Region of the Americas
-- Europe
-- Eastern Mediterranean
+  - Region of the Americas
+  - Europe
+  - Eastern Mediterranean
 
 3. Korelasi Kematian vs. Kesembuhan
 Visualisasi scatterplot menunjukkan bahwa negara dengan tingkat kematian tinggi cenderung memiliki tingkat kesembuhan yang lebih rendah,
