@@ -1,5 +1,7 @@
 # Capstone-Project-covid-analysis-
 
+👤 Kevin Kristoforus Samosir
+
 🦠 COVID-19 Global Data Analysis - Capstone Project
 📌 Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis data global COVID-19 berdasarkan data negara-negara di seluruh dunia. 
@@ -35,3 +37,8 @@ walau ini tidak berlaku universal. Korelasi antar fitur juga divisualisasikan da
 5. Prediksi Tren Minggu Depan
 Berdasarkan penambahan mingguan (1 week change), dilakukan estimasi jumlah kasus minggu depan. Negara seperti India, USA,
 dan Brazil diprediksi tetap memiliki total kasus tinggi.
+
+ 📌 Insight Utama 
+1. Negara berkembang menunjukkan variasi besar dalam tingkat pertumbuhan kasus.
+2. Beberapa wilayah WHO menunjukkan perbedaan signifikan dalam respons dan penyebaran.
+3. Data historis dapat digunakan untuk memprediksi tren jangka pendek dengan cukup baik.
